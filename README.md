@@ -6,4 +6,4 @@ The dataset analyzed here came from several JSON files that contains more than 4
 
 With the profile of each user, the main goal of this project is not predict whether an user going to fraud or not, but try to learn the their normal behaviour and check for some anomalies.
 
-The pipeline for transform JSON files into a dataframe is described on [estagio_ds_firststeps.ipynb](../blob/main/estagio_ds_firststeps.ipynb) and from this pipeline, the [users_profile.csv](../blob/main/users_profile.csv) is generated to be analysed in [estagio_ds_anomalydetection.ipynb](../blob/main/estagio_ds_anomalydetection.ipynb).
+The pipeline for transform JSON files into a dataframe is described on [estagio_ds_firststeps.ipynb](../main/estagio_ds_firststeps.ipynb) and from this pipeline, the [users_profile.csv](../main/users_profile.csv) is generated to be analysed in [estagio_ds_anomalydetection.ipynb](../main/estagio_ds_anomalydetection.ipynb).
